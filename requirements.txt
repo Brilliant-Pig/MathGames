@@ -1,9 +1,0 @@
-pandas>=2.1
-numpy>=1.26
-matplotlib>=3.8
-seaborn>=0.13
-lifelines>=0.28
-openpyxl>=3.1
-pdfminer.six>=20231228
-PyYAML>=6.0.2
-scipy>=1.11
